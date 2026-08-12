@@ -1,2 +1,8 @@
 {
+  "crons": [
+    {
+      "path": "/api/coach",
+      "schedule": "0 6 * * *"
+    }
+  ]
 }
