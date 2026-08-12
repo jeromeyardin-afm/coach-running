@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/coach",
+      "schedule": "0 */3 * * *"
+    }
+  ],
+  "env": {
+    "GARMIN_EMAIL": "@garmin_email",
+    "GARMIN_PASSWORD": "@garmin_password",
+    "ANTHROPIC_API_KEY": "@anthropic_api_key",
+    "EMAIL_USER": "@email_user",
+    "EMAIL_PASSWORD": "@email_password",
+    "EMAIL_DESTINATAIRE": "@email_destinataire"
+  }
+}
