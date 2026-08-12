@@ -18,6 +18,9 @@
     },
     "api/debug-weeks.js": {
       "maxDuration": 60
+    },
+    "api/debug-splits.js": {
+      "maxDuration": 60
     }
   }
 }
