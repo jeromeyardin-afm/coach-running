@@ -21,6 +21,9 @@
     },
     "api/debug-splits.js": {
       "maxDuration": 60
+    },
+    "api/debug-training-status.js": {
+      "maxDuration": 60
     }
   }
 }
