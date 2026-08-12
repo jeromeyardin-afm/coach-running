@@ -17,6 +17,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.116.0",
     "garmin-connect": "^1.6.2",
+    "marked": "^18.0.9",
     "nodemailer": "^9.0.5"
   },
   "bugs": {
