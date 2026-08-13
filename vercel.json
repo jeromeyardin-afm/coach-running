@@ -14,7 +14,7 @@
       "maxDuration": 60
     },
     "api/weekly-report.js": {
-      "maxDuration": 60
+      "maxDuration": 120
     },
     "api/debug-weeks.js": {
       "maxDuration": 60
@@ -27,6 +27,9 @@
     },
     "api/debug-race-predictions.js": {
       "maxDuration": 60
+    },
+    "api/debug-zones.js": {
+      "maxDuration": 120
     }
   }
 }
