@@ -24,6 +24,9 @@
     },
     "api/debug-training-status.js": {
       "maxDuration": 60
+    },
+    "api/debug-race-predictions.js": {
+      "maxDuration": 60
     }
   }
 }
