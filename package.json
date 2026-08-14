@@ -16,6 +16,7 @@
   "type": "commonjs",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.116.0",
+    "@upstash/redis": "^1.38.2",
     "garmin-connect": "^1.6.2",
     "marked": "^18.0.9",
     "nodemailer": "^9.0.5"
