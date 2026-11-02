@@ -1,14 +1,4 @@
 {
-  "crons": [
-    {
-      "path": "/api/coach",
-      "schedule": "0 12 * * *"
-    },
-    {
-      "path": "/api/weekly-report",
-      "schedule": "0 18 * * 0"
-    }
-  ],
   "functions": {
     "api/coach.js": {
       "maxDuration": 60
